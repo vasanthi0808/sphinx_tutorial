@@ -21,3 +21,16 @@ A numbered list:
 #. number one
 #. number two
 #. number three
+
+This is how you make a simple table:
+
++------------------------------------------+
+| **Name**          | **Job  **            |
++------------------------------------------+
+| #. Vasanthi       | #. Trainer in HOT OSM|
++------------------------------------------+
+
+
+
+
+

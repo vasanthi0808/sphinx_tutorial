@@ -25,7 +25,7 @@ A numbered list:
 This is how you make a simple table:
 
 +------------------------------------------+
-| **Name**          | **Job  **            |
+| **Name**          | **Job**              |
 +------------------------------------------+
 | #. Vasanthi       | #. Trainer in HOT OSM|
 +------------------------------------------+

@@ -1,8 +1,8 @@
-Hola!
-=====
+Hola! *this is level one heading*
+=================================
 
-Nice to meet ya!
-----------------
+Nice to meet ya! *this is level two heading*
+--------------------------------------------
 
 This is how you write **bold**.
 This is how you write *italics*.
@@ -22,13 +22,20 @@ A numbered list:
 #. number two
 #. number three
 
+Table! *this is level three heading*
+....................................
+
 This is how you make a simple table:
 
-+------------------------------------------+
++-------------------+----------------------+
 | **Name**          | **Job**              |
-+------------------------------------------+
-| #. Vasanthi       | #. Trainer in HOT OSM|
-+------------------------------------------+
++-------------------+----------------------+
+| #. Vasanthi       | Trainer in HOT OSM   |
++-------------------+----------------------+
+
+
+
+
 
 
 

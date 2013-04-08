@@ -12,8 +12,8 @@ This is how you write *italics*.
 This is how you do a hiperlink: http://www.google.com
 
 A bullet list:
-#Item foo
-#Item bar
+* Item foo
+* Item bar
 
 A numbered list:
 #. number one
